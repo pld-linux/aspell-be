@@ -8,8 +8,8 @@ Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/be/aspell5-be-%{version}.tar.bz2
 # Source0-md5:	61314a1672f98571b32d23486bbd43be
 URL:		http://aspell.net/
-BuildRequires:	aspell >= 0.50.0
-Requires:	aspell >= 0.50.0
+BuildRequires:	aspell >= 2:0.50.0
+Requires:	aspell >= 2:0.50.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
