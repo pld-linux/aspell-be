@@ -1,5 +1,5 @@
 Summary:	Belarusian dictionary for aspell
-Summary(pl):	Bia這ruski s這wnik dla aspella
+Summary(pl):	S這wnik bia這ruski dla aspella
 Name:		aspell-be
 Version:	0.01
 Release:	1
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Belarusian dictionary (i.e. word list) for aspell.
 
 %description -l pl
-Bia這ruski s這wnik (lista s堯w) dla aspella.
+S這wnik (lista s堯w) bia這ruski dla aspella.
 
 %prep
 %setup -q -n aspell5-be-%{version}
