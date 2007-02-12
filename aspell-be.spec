@@ -1,5 +1,5 @@
 Summary:	Belarusian dictionary for aspell
-Summary(pl.UTF-8):   Białoruski słownik dla aspella
+Summary(pl.UTF-8):	Białoruski słownik dla aspella
 Name:		aspell-be
 Version:	0.01
 Release:	1
