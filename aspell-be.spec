@@ -1,5 +1,5 @@
 Summary:	Belarusian dictionary for aspell
-Summary(pl):	Bia³oruski s³ownik dla aspella
+Summary(pl.UTF-8):   BiaÅ‚oruski sÅ‚ownik dla aspella
 Name:		aspell-be
 Version:	0.01
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Belarusian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-Bia³oruski s³ownik (lista s³ów) dla aspella.
+%description -l pl.UTF-8
+BiaÅ‚oruski sÅ‚ownik (lista sÅ‚Ã³w) dla aspella.
 
 %prep
 %setup -q -n aspell5-be-%{version}
