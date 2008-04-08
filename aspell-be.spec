@@ -5,7 +5,7 @@ Version:	0.01
 Release:	1
 License:	GPL
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/be/aspell5-be-%{version}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/be/aspell5-be-%{version}.tar.bz2
 # Source0-md5:	61314a1672f98571b32d23486bbd43be
 URL:		http://aspell.net/
 BuildRequires:	aspell >= 2:0.50.0
