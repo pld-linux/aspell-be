@@ -2,7 +2,7 @@ Summary:	Belarusian dictionary for aspell
 Summary(pl.UTF-8):	Białoruski słownik dla aspella
 Name:		aspell-be
 Version:	0.01
-Release:	2
+Release:	3
 License:	GPL
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/be/aspell5-be-%{version}.tar.bz2
